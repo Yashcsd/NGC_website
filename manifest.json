@@ -1,0 +1,21 @@
+{
+  "name": "New Generation Computer",
+  "short_name": "NGC",
+  "description": "Authorized Epson & Canon Service Center - Professional Printer & Computer Solutions",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e27",
+  "theme_color": "#0066ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "technology", "services"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
